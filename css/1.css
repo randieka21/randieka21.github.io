@@ -76,3 +76,7 @@ h1.entry-title {
     background-position: center center;
     background-size: contain
 }
+
+.kartu {
+    background-image: url(img/kartu-091020221659.jpg) !important;
+}
