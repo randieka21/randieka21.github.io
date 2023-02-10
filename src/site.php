@@ -1336,7 +1336,7 @@ use yii\helpers\Url;
 
             let date = new Date(row.created_at)
             date.setUTCHours(date.getUTCHours() + 7)
-            // console.info({row})
+            // console.info({row, date})
 
             let d = date.getUTCDate()
             let m = date.getUTCMonth() + 1
@@ -1396,6 +1396,7 @@ use yii\helpers\Url;
                     let h = date.getUTCHours()
                     if (m < 10) m = '0'+m;
                     if (d < 10) d = '0'+d;
+                    if (h < 10) h = '0'+h;
                     const created_at = ''+ date.getFullYear() +'-'+ m +'-'+ d +'T'+ h + date.toString().slice(18,24) +'Z'
                     addCommentEntry({created_at, body})
                 })
