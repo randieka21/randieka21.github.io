@@ -8,6 +8,7 @@ processes = []
 [env]
   APP_ENV = "production"
   GH_TOKEN = "Secret123"
+  GH_ISSUE_URL = "/saung-rangon/tower-blocks/issues/2"
 
 [[services]]
   http_checks = []

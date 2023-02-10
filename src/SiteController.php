@@ -4,7 +4,7 @@ namespace app\src;
 use yii\helpers\Json;
 
 define('TOKEN', getenv('GH_TOKEN'));
-define('URL', 'https://api.github.com/repos/saung-rangon/tower-blocks/issues/2/comments');
+define('URL', 'https://api.github.com/repos'. getenv('GH_ISSUE_URL') .'/comments');
 
 class SiteController extends \yii\web\Controller
 {
