@@ -18,31 +18,31 @@ use yii\helpers\Url;
     <link media="screen" href="css/autoptimize_d1c8710e86244984ba566c4bd7b85611.css" rel="stylesheet" />
     <link media="print" href="css/autoptimize_f637c8737ec7525695a5301f7a69ccd9.css" rel="stylesheet" />
     <title>Devi & Randi - Wedding Invitation</title>
-    <meta name="description" content="Undangan Digital Tema 11 Desain nuansa hitam elegant dengan foto full dibagian cover, memberikan kesan nyaman dan membuat undangan kamu menjadi lebih elegant." />
+    <meta name="description" content="" />
     <meta name="robots" content="noindex, nofollow, noodp, noarchive, nosnippet" />
     <meta name="google" content="noimageindex" />
-    <meta property="og:url" content="https://undangandigital.id/tema11/" />
-    <meta property="og:site_name" content="Undangan Digital ID" />
+
+    <meta property="og:site_name" content="Wedding Invitation" />
     <meta property="og:locale" content="id_ID" />
     <meta property="og:type" content="article" />
-    <meta property="article:author" content="https://www.facebook.com/undangan.digital.id" />
-    <meta property="article:publisher" content="https://www.facebook.com/undangan.digital.id" />
-    <meta property="article:section" content="Template" />
-    <meta property="og:title" content="Tema 11 - Undangan Digital ID" />
-    <meta property="og:description" content="Undangan Digital Tema 11 Desain nuansa hitam elegant dengan foto full dibagian cover, memberikan kesan nyaman dan membuat undangan kamu menjadi lebih elegant." />
+    <meta property="og:title" content="Devi & Randi - Wedding Invitation" />
+    <meta property="og:description" content="Undangan Pernikahan Devi & Randi - 15 Mei 2023" />
     <meta property="og:image" content="http://undangandigital.id/wp-content/uploads/2022/11/bunga_nama_tema11_301120221446.webp" />
     <meta property="og:image:secure_url" content="http://undangandigital.id/wp-content/uploads/2022/11/bunga_nama_tema11_301120221446.webp" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="530" />
+
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Tema 11 - Undangan Digital ID" />
-    <meta name="twitter:description" content="Undangan Digital Tema 11 Desain nuansa hitam elegant dengan foto full dibagian cover, memberikan kesan nyaman dan membuat undangan kamu menjadi lebih elegant." />
+    <meta name="twitter:title" content="Devi & Randi - Wedding Invitation" />
+    <meta name="twitter:description" content="Undangan Pernikahan Devi & Randi - 15 Mei 2023" />
     <meta name="twitter:image" content="http://undangandigital.id/wp-content/uploads/2022/11/bunga_nama_tema11_301120221446.webp" />
+    
     <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
     <link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
     <link rel='stylesheet' id='elementor-post-17-css' href="css/autoptimize_single_88c87887588887f3e130b77d2ce6a1c6.css" media='all' />
     <link rel='stylesheet' id='elementor-global-css' href="css/autoptimize_single_276b0ff522e19e70136b66c46f970dc1.css" media='all' />
     <link rel='stylesheet' id='elementor-post-59554-css' href="css/autoptimize_single_c330f1901fb14a376de6d8486691c8e0.css" media='all' />
+    
     <script id='jquery-core-js-extra'>
         var pp = {
             "ajax_url": "https:\/\/undangandigital.id\/wp-admin\/admin-ajax.php"
@@ -59,10 +59,12 @@ use yii\helpers\Url;
     <link rel="alternate" type="text/xml+oembed" href="https://undangandigital.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fundangandigital.id%2Ftema11%2F&amp;format=xml" />
     <meta name="generator" content="Site Kit by Google 1.85.0" />
     <link rel="pingback" href="https://undangandigital.id/xmlrpc.php">
-    <link rel="icon" href="https://undangandigital.id/wp-content/uploads/2021/10/cropped-logo-ud-32x32.png" sizes="32x32" />
-    <link rel="icon" href="https://undangandigital.id/wp-content/uploads/2021/10/cropped-logo-ud-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="https://undangandigital.id/wp-content/uploads/2021/10/cropped-logo-ud-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://undangandigital.id/wp-content/uploads/2021/10/cropped-logo-ud-270x270.png" />
+
+    <link rel="icon" href="css/img/icon/dr-32.png" sizes="32x32" />
+    <link rel="icon" href="css/img/icon/dr-192.png" sizes="192x192" />
+    
+    <link rel="apple-touch-icon" href="css/img/icon/dr-180.png" />
+    <meta name="msapplication-TileImage" content="css/img/icon/dr-270.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 </head>
 
@@ -670,7 +672,7 @@ use yii\helpers\Url;
                                                     <div class="pp-timeline-card-wrapper">
                                                         <div class="pp-timeline-arrow"></div>
                                                         <div class="pp-timeline-card">
-                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/1.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
+                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/2.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
                                                             </div>
                                                             <div class="pp-timeline-card-title-wrap"> <span class="pp-timeline-card-title"> Awal Pertemuan
                                                                 </span></div>
@@ -694,7 +696,7 @@ use yii\helpers\Url;
                                                     <div class="pp-timeline-card-wrapper">
                                                         <div class="pp-timeline-arrow"></div>
                                                         <div class="pp-timeline-card">
-                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/2.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
+                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/1.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
                                                             </div>
                                                             <div class="pp-timeline-card-title-wrap"> <span class="pp-timeline-card-title"> Berpacaran </span>
                                                             </div>
@@ -720,7 +722,7 @@ use yii\helpers\Url;
                                                     <div class="pp-timeline-card-wrapper">
                                                         <div class="pp-timeline-arrow"></div>
                                                         <div class="pp-timeline-card">
-                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/5.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
+                                                            <div class="pp-timeline-card-image"> <img decoding="async" width="666" height="1000" src="css/img/gallery/3.jpg" class="attachment-full size-full" alt="" loading="lazy" style="width:100%;height:150.15%;max-width:666px" />
                                                             </div>
                                                             <div class="pp-timeline-card-title-wrap"> <span class="pp-timeline-card-title"> Lamaran </span>
                                                             </div>
@@ -868,7 +870,7 @@ use yii\helpers\Url;
                                     <div class='wdp-wrapper wdp-golden wdp-border' style='overflow: hidden;'>
                                         <div class='wdp-wrap-link' style='padding-bottom:12px!important'>
                                             <center><a id='wdp-link-59554' class='wdp-link wdp-icon-link wdp-icon-link-true auto-load-true' href='https://undangandigital.id/tema11/?post_id=59554&amp;comments=2&amp;get=0&amp;order=DESC' title='2 Ucapan'><i aria-hidden='true' class='far fa-envelope-open'>
-                                                    </i> <span>2</span> Ucapan</a> <br /> <span class='notif notif-hadir'><i aria-hidden='true' class='far fa-grin-hearts'> </i> 2 Hadir</span> <span class='notif notif-tidakhadir'><i aria-hidden='true' class='far fa-frown'> </i> 0 Tidak Hadir</span> <span class='notif notif-ragu'><i aria-hidden='true' class='far fa-meh'>
+                                                    </i> Ucapan</a> <br /> <span class='notif notif-hadir'><i aria-hidden='true' class='far fa-grin-hearts'> </i> 2 Hadir</span> <span class='notif notif-tidakhadir'><i aria-hidden='true' class='far fa-frown'> </i> 0 Tidak Hadir</span> <span class='notif notif-ragu'><i aria-hidden='true' class='far fa-meh'>
                                                     </i> 0 Masih Ragu</span></center>
                                         </div>
                                         <div id='wdp-wrap-commnent-59554' class='wdp-wrap-comments' style='display:none;'>
